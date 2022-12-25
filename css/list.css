@@ -1,0 +1,87 @@
+/* 图 */
+.layui-carousel {
+    float: left;
+}
+
+.lun {
+    margin-top: 60px;
+    margin-left: 180px;
+}
+
+/* 主体 */
+.gou {
+    float: right;
+    width: 606px;
+    height: 606px;
+    /* background-color: blue; */
+    margin-right: 160px;
+}
+
+.gou-1 {
+    font-size: 24px;
+    color: #212121;
+    font-weight: 400;
+}
+
+.gou-2 {
+    color: #b0b0b0;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.gou-3 {
+    color: #ff6700;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.gou-4 {
+    color: #ff6700;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.gou-6 {
+    margin-top: 20px;
+}
+
+.gou-7 {
+    width: 330px;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.gou-8 {
+    margin-top: 20px;
+}
+
+.gou-9 {
+    width: 330px;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.gou-10 {
+    background-color: #ff6700;
+    font-size: 30px;
+    text-align: center;
+    height: 80px;
+    width: 606px;
+    margin: 0 auto;
+    line-height: 80px;
+
+}
+
+.gou-10 a {
+    color: #080400;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.gou-10 a:hover {
+    color: blue;
+}

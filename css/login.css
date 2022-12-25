@@ -1,0 +1,145 @@
+/* 图片 */
+.tu {
+    float: left;
+}
+
+/* 登录头 */
+.den {
+    width: 1054.2px;
+    height: 674.51px;
+    /* background-color: blue; */
+    float: right;
+}
+
+
+.den-a {
+    padding: 20px;
+}
+
+.den-m {
+    float: left;
+    margin-right: 10px;
+}
+
+.den-n {
+    font-size: 25px;
+    float: left;
+
+}
+
+.den-h {
+    float: right;
+}
+
+.den-h a {
+    text-decoration: none;
+    margin-left: 10px;
+    color: #5a5959;
+}
+
+.den-h a:hover {
+    color: #ff8500;
+}
+
+/* 登录内容 */
+.ron {
+    width: 360px;
+    height: 520.51px;
+    /* background-color: rgb(79, 79, 81); */
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 40px 45px;
+    padding: blue;
+    /* border-color: rgb(228, 226, 223); */
+    border: 1px solid #ababa8;
+}
+
+.ron-1 a {
+    color: #333;
+    font-size: 22px;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.ron-1 a:hover {
+    color: #ff8500;
+}
+
+.ron-2 {
+    margin-top: 40px;
+}
+
+.ron-3 {
+    margin-top: 40px;
+}
+
+.ron-4 {
+    margin-top: 40px;
+}
+
+/* 登录按钮 */
+.ron-5 {
+    width: 365px;
+    height: 60px;
+    font-size: 22px;
+    background-color: #ff8500;
+    border: 0px solid #ababa8;
+    font-size: 22px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.ron-5 a {
+    text-decoration: none;
+}
+
+.ron-6 {
+    margin-top: 20px;
+}
+
+.ron-6 a:hover {
+    color: #948c84;
+}
+
+.ron-w {
+    float: left;
+}
+
+.ron-w a {
+    color: #ff8500;
+    text-decoration: none;
+}
+
+.ron-s {
+    float: right;
+
+}
+
+.ron-s a {
+    color: #ff8500;
+    text-decoration: none;
+}
+
+.ron-7 {
+    text-align: center;
+    margin-top: 20px;
+    color: #aaa;
+}
+
+.ron-8 {
+    margin-top: 30px;
+}
+
+.jiao {
+    text-align: center;
+    margin-top: 80px;
+    color: #999;
+    font-size: 12px;
+}
+
+.fooder {
+    margin-top: 60px;
+    margin-left: 0px;
+
+    padding: 0px;
+}

@@ -1,0 +1,50 @@
+/* 主体内容 */
+.p-box {
+    width: 500px;
+    height: 650px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(210, 210, 210);
+}
+
+.p-box a {
+    text-decoration: none;
+}
+
+/* 条例 */
+.a {
+    font-size: 24px;
+    color: rgb(99, 104, 108);
+    text-align: center;
+    padding: 35px;
+}
+
+.b {
+    margin-top: 40px;
+
+    text-align: center;
+}
+
+.c {
+    margin-top: 30px;
+
+    text-align: center;
+}
+
+.d {
+    margin-top: 30px;
+
+    color: rgb(104, 104, 101);
+    text-align: center;
+}
+
+.e {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(104, 104, 101);
+}
+
+.aside-logo {
+    margin-top: 20px;
+}

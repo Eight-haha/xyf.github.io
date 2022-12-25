@@ -1,0 +1,212 @@
+     .clearfix::after {
+         content: '';
+         display: block;
+         clear: both;
+     }
+
+     .wrap {
+         /* width: 1400px; */
+         margin: 10px auto;
+     }
+
+     header {
+         /* width: 950px; */
+         height: 41px;
+         margin: 0 auto;
+         margin-bottom: 3px;
+         /* background-color: pink; */
+     }
+
+
+
+     aside {
+         float: left;
+         /* width: 240px;
+         height: 400px; */
+         /* background-color: blue; */
+     }
+
+     .layui-carousel {
+         float: right;
+     }
+
+     .layui-carousel img {
+         width: 100%;
+         height: 100%;
+     }
+
+     .main {
+         height: 640px;
+         /* background-color: blueviolet; */
+     }
+
+     .fooder {
+         width: 1226px;
+         height: 200px;
+         margin: 0 auto;
+         margin-bottom: 10px;
+         /* background-color: burlywood; */
+     }
+
+     .nav {
+         height: 41px;
+         border-top: 3px solid #ff8500;
+         border-bottom: 1px solid #edeef0;
+         background-color: #fcfcfc;
+         line-height: 41px;
+         font-size: 0;
+     }
+
+     .nav a {
+         display: inline-block;
+         height: 41px;
+         padding: 0 20px;
+         font-size: 12px;
+         color: #4c4c4c;
+         text-decoration: none;
+     }
+
+     .nav a:hover {
+         background-color: #eee;
+         color: #ff8500;
+     }
+
+     .wrap {
+         width: 1226px;
+         margin: 0 auto;
+         margin-top: 20px;
+     }
+
+     .left,
+     .right,
+     .middle {
+         display: inline-block;
+     }
+
+     .middle {
+         width: 150px;
+     }
+
+     .aside-logo span {
+         font-size: 23px;
+     }
+
+     /* 侧边栏 */
+     .aside-nav {
+         width: 234px;
+         height: 460px;
+         background-color: rgba(0, 0, 0, 0.3);
+         overflow: hidden;
+     }
+
+     .aside-nav a {
+         display: block;
+         /* a的盒子尺寸宽234，因为用了padding-left:30px,所以content 的宽度设置为234-30=204px */
+         width: 204px;
+         height: 42px;
+         text-decoration: none;
+         /* background-color: rgba(0, 0, 0, 0.5); */
+         color: #fff;
+         padding-left: 30px;
+         line-height: 42px;
+         font-size: 14px;
+         font-weight: 500;
+
+     }
+
+     .aside-nav a:hover {
+         background-color: rgb(255, 103, 0);
+     }
+
+     .aside-nav span {
+         float: right;
+         line-height: 42px;
+         padding-right: 25px;
+         font-weight: 600;
+         font-size: 22px;
+     }
+
+     /* 网页主体 */
+     body {
+         background-color: #f5f5f5;
+     }
+
+
+     a {
+         text-decoration: none;
+         font-size: 14px;
+         color: #333;
+     }
+
+     .w {
+         width: 1226px;
+         margin: 0 auto;
+         /* background-color: gray; */
+     }
+
+     .top {
+         width: 1226px;
+         height: 300px;
+         /* background-color: blue; */
+         margin-bottom: 14px;
+     }
+
+     .tv {
+         width: 234px;
+         height: 300px;
+         background-color: #fff;
+         float: left;
+         margin-left: 14px;
+     }
+
+     .one {
+         margin-left: 0;
+     }
+
+     .one img {
+         width: 100%;
+         height: 100%;
+     }
+
+     /* 内容 */
+
+     .tv {
+         text-align: center;
+
+     }
+
+     .tv:hover {
+         box-shadow: 0 15px 30px rgba(0, 0, 0, .3);
+
+     }
+
+     .tv .title {
+         margin-top: 20px;
+         font-weight: 400;
+
+     }
+
+     .tv .desc {
+         margin-top: 5px;
+         color: #b0b0b0;
+     }
+
+     .tv .price {
+         margin-top: 18px;
+
+     }
+
+     .price {
+         color: #ff6700;
+     }
+
+     .num2 {
+         color: #b0b0b0;
+         text-decoration: line-through;
+     }
+
+     .bottom {
+         width: 1226px;
+         height: 300px;
+         /* background-color: green; */
+     }
